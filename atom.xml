@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://zhenkyle.github.io/bitcoinnews/atom.xml" rel="self"/>
-  <link href="http://zhenkyle.github.io/bitcoinnews/"/>
-  <updated>2014-01-06T14:51:00+08:00</updated>
-  <id>http://zhenkyle.github.io/bitcoinnews/</id>
+  <title><![CDATA[Bitcoin News]]></title>
+  <link href="http://btc.zhenkeblog.cn/atom.xml" rel="self"/>
+  <link href="http://btc.zhenkeblog.cn/"/>
+  <updated>2014-01-06T15:07:13+08:00</updated>
+  <id>http://btc.zhenkeblog.cn/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
