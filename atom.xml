@@ -4,7 +4,7 @@
   <title><![CDATA[Bitcoin News]]></title>
   <link href="http://btc.zhenkeblog.cn/atom.xml" rel="self"/>
   <link href="http://btc.zhenkeblog.cn/"/>
-  <updated>2014-01-06T15:08:43+08:00</updated>
+  <updated>2014-01-06T15:21:23+08:00</updated>
   <id>http://btc.zhenkeblog.cn/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[It Works]]></title>
+    <link href="http://btc.zhenkeblog.cn/blog/2014/01/06/it-works/"/>
+    <updated>2014-01-06T15:19:47+08:00</updated>
+    <id>http://btc.zhenkeblog.cn/blog/2014/01/06/it-works</id>
+    <content type="html"><![CDATA[<p>可以工作了。后续添加内容。</p>
+]]></content>
+  </entry>
   
 </feed>
