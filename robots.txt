@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://zhenkyle.github.io/bitcoinnews/sitemap.xml 
