@@ -4,14 +4,23 @@
   <title><![CDATA[Bitcoin News]]></title>
   <link href="http://btc.zhenkeblog.cn/atom.xml" rel="self"/>
   <link href="http://btc.zhenkeblog.cn/"/>
-  <updated>2014-01-08T09:24:00+08:00</updated>
+  <updated>2014-01-08T15:20:42+08:00</updated>
   <id>http://btc.zhenkeblog.cn/</id>
   <author>
-    <name><![CDATA[Zhen Kyle]]></name>
+    <name><![CDATA[小编]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://btc.zhenkeblog.cn/blog/2014/01/08/hello-world/"/>
+    <updated>2014-01-08T12:43:44+08:00</updated>
+    <id>http://btc.zhenkeblog.cn/blog/2014/01/08/hello-world</id>
+    <content type="html"><![CDATA[<p>比特币</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zynga测试虚拟货币付款 比特币价格重返1000美元]]></title>
